@@ -1,0 +1,10 @@
+/.phpunit.cache/
+/build/
+/vendor/
+/.idea
+*.swp
+*.swo
+.DS_Store
+.env
+.env.local
+composer.lock
