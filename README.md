@@ -1,3 +1,0 @@
-# kyamipay
-# kyamipay
-# kyamipay
